@@ -5,4 +5,4 @@ There is little formal discussion of identification or potential data generating
 
 For example, recent article (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.045302) explored whether diffusion models can enhance parameter inference by augmenting small datasets. 
 
-We apply those DDPM based generative AI model for causal inference, especially for random sampling from a small data set in Economics.  
+We apply those DDPM based generative AI model for causal inference, especially for random sampling from a small data set in Economics. We want to apply those DDPM based generative AI model for causal inference, especially for random sampling in Economics. We want to perform an updated analysis for my recent article: https://arxiv.org/abs/2507.19911.
